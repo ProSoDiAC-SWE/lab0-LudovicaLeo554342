@@ -7,7 +7,7 @@ Ludovica Leo
 Laurea Triennale in Informatica – Programmazione ad Oggetti
 
 ## Chi sono
-mi chiamo Ludovica, ho 21 anni e sono di Messina. Sono figlia unica e ho un gatto di nome kitty. Mi piace il mondo scientifico, la danza e i gatti.  
+Mi chiamo Ludovica, ho 21 anni e sono di Messina. Sono figlia unica e ho un gatto di nome kitty. Mi piace il mondo scientifico, la danza e i gatti.  
 
 ## Interessi in Informatica
 - Database
